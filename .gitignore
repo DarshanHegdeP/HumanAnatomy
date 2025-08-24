@@ -1,0 +1,30 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Bb]in/
+[Oo]bj/
+sysinfo.txt
+
+# =============== #
+# Visual Studio   #
+# =============== #
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# =============== #
+# OS Generated    #
+# =============== #
+.DS_Store
+Thumbs.db
